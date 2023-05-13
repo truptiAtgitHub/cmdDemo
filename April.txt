@@ -1,0 +1,88 @@
+SDLC : Software Development Life Cycle
+1. Requirment Gathering
+2. Analysis
+3.coding
+4.Testing
+5. Deployment
+6. Maintainance
+
+
+1.Waterfall Model :
+2. Agile Model 
+
+
+UML: Unifide Modeling Language
+       It is a way which gives the graphical representation of system
+   1. number of componants/object
+   2. relation between each componant
+   3. Data Flow 
+   4. Activities
+   5. Database Architecture
+
+1. Structural Diagram   :it gives the structure of system i.e it gives idea of included componant and the relation between them
+2. Bhevioural Diagram :
+
+1.Class Diagram
+2.Data Flow Diagram
+3. Entity Relationship Diagram
+4. Activity Diagram
+5.Componant Diagram
+6.Sequence Diagram
+
+Git And Git Hub
+Git  : Version Control System
+         Centarl Repository which is used to store the code/indivudals work
+
+1. Track Individual Work
+2. Control the version of our work
+3. Easy Collaboration
+4. Easily showcase your work
+5. Track Team Work
+
+
+Git Hub :Git hub is a platform which provides the code collaboration 
+    
+Repository:A repository contains all project files, including the revision history.
+Branch: A diffrent versions of repo.
+
+
+3 states in git
+1. commited
+2.stagged
+3. Modified
+
+
+
+Jira : It is tool used for 
+ 1. project mgmt
+ 2. bug tracking
+ 3. issue tracking
+4. graphs
+
+
+Agile  : Scrum Framework
+
+Project Owner (po)
+Scrum Master (sm) 
+Scrum Team
+ 
+Backlogs
+Sprint :
+Epic :
+Story: 
+Task:
+Subtask
+
+
+
+
+
+
+
+
+
+
+
+
+
+
