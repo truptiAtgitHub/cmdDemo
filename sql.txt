@@ -1,0 +1,11 @@
+Create table employee 
+1. Apply all constraints.
+2.Add minimum 10 records.
+3. Display the record of all employees.
+4. Display the  information of testers and JavaDevelopers.
+5. Dispaly information of employee who earn more than 5LPA.
+6. Update the position of employees from "Jr.DotNetDeveloper" to "Sr.DotNetDeveloper" who has completed 5yrs.
+7. Display record of employee who belongs to Maharashtra.
+8. Display record of employee who have joined in the last year.
+9. Display record of employee who are not from "Maharashtra".
+10.Findout the employee's firstname which has "r" in the second position.
